@@ -12,6 +12,7 @@ labels:
   - C#
 summary: "In a program called Gameheads, my team developed a video game about a whole note that traverses a world of silence, determined to bring music to the world, by finding other musical notes."
 ---
+
 <div class="text-center p-4">
   <img width="200px" src="../img/harmony-quest/Harmony_Quest_Poster.png" class="img-thumbnail" >
 </div>
