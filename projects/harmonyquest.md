@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Harmony Quest"
-date: 2024-12-14
+date: 2024
 published: true
 labels:
   - Video Game
