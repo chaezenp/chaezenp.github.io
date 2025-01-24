@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/harmony-quest/Harmony_Quest_Poster.png
+image: img/gameheads-projects/Nightmarch_SAP_poster1.png
 title: "The Night March"
 date: 2023
 published: true
