@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Harmony_Quest_Poster.png
+image: img/harmony-quest/Harmony_Quest_Poster.png
 title: "Harmony Quest"
 date: 2024
 published: true
