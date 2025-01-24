@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Harmony_Quest_Poster.png
 title: "Harmony Quest"
 date: 2024
 published: true
@@ -12,12 +12,6 @@ labels:
   - C#
 summary: "In a program called Gameheads, my team developed a video game about a whole note that traverses a world of silence, determined to bring music to the world, by finding other musical notes."
 ---
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 During each summer, Gameheads students create teams among themselves to create a game over the summer with a core idea shared by each team member. In our ideation process, we agreed on the central idea of harmony as in "the world lives in harmony. From there we started to develop concepts of a game revolving around music to utilize the double meaning of "harmony". 
 
