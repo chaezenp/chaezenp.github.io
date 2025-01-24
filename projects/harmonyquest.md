@@ -17,4 +17,4 @@ During each summer, Gameheads students create teams among themselves to create a
 
 For this project, we used Unity to develop this game. I was the lead programmer who was responsible for programming the various game mechanics and developing the UI functions. I started with the basics of movement and jumping. I developed the musical and color-changing platforms that trigger when jumped on by the player. Next, I started on a core mechanic of switching between the different notes as each had a unique trait such as jumping higher or moving faster. Then I programmed the grabbing mechanic to pick up boxes on certain levels. Besides movement, I programmed each additional mechanic, such as switching characters, into a controller input. 
 
-You can learn more on our game's itch.io page: (https://gameheads.itch.io/harmony-quest).
+You can learn more on our [game's itch.io page]: (https://gameheads.itch.io/harmony-quest).
