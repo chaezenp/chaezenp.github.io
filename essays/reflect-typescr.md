@@ -33,13 +33,13 @@ Union types are what make this possible. It is quite simple as well, using '|' (
 function printFunc(printThis: string | number): string | number {
 return printThis;
 }
-let num = 4;
+let num: number = 4;
 console.log(printFunc("Lol")); // Prints Lol
 console.log(printFunc(num)); // Prints 4
 ```
-Also compared to Java, printing to the console is much simpler as all you need is *console.log("blah");*
+Also compared to Java, printing to the console is much simpler as all you need is *console.log("Lol");*. But with less syntax one way, there is more the other way. What I mean is Typescript is a superset of Javascript and a main difference is Typescript is about explicit types. Then again some programs run better on Java and some on Typescript, it all depends on the application.
 
-A similar topic that I find interesting is the **any** and **unknown** in typescript and **let** in Javascript can be dynamically typed. They can change throughout the code which can be useful or hurtful. But to avoid the hurtful, it is recommended to use **unknown** as it is safer than **any** so I'll stick with **unknown**.
+Another thing I find interesting is that **any** and **unknown** in typescript can be dynamically typed like **let** in Javascript. They can change throughout the code which can be useful or hurtful. But to avoid the hurt, it is recommended to use **unknown** as it is safer than **any** so I'll stick with **unknown**.
 Though I am still new to this language, I think learning and practicing more will be worth it.
 
 # Going Forward
