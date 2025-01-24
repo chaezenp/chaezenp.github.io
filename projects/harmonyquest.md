@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/harmony-quest/Harmony_Quest_Poster.png
 title: "Harmony Quest"
-date: 2024
+date: 2024-12
 published: true
 labels:
   - Video Game
