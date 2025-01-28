@@ -13,8 +13,8 @@ summary: "In a program called Gameheads, I created a floating island scene using
 ---
 
 <div>
-  <img width="200px" src="../img/gameheads-projects/UE4_Proj2 copy.png" class="img-thumbnail" >
-  <img width="200px" src="../img/gameheads-projects/UE4_Proj4 copy.png" class="img-thumbnail" >
+  <img width="500px" src="../img/gameheads-projects/UE4_Proj2 copy.png" class="img-thumbnail" >
+  <img width="500px" src="../img/gameheads-projects/UE4_Proj4 copy.png" class="img-thumbnail" >
 </div>
 
 During the "spring semester", Gameheads students take classes that they choose. I chose to learn Blender and Unreal Engine 4. Utilizing the free assets in the Unreal store, I created a scene of a floating island with an ancient tower that has since been overgrown. The crystals have magical properties that allow the surrounding piece of land to float up into the air. 
