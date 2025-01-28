@@ -10,7 +10,7 @@ labels:
   - Platformer
   - Unity
   - C#
-summary: "In a program called Gameheads, my team developed a video game about a whole note that traverses a world of silence, determined to bring music to the world, by finding other musical notes."
+summary: "I was the lead programmer in my team that developed Harmony Quest, a video game about a whole note that traverses a world of silence, determined to bring music to the world, by finding other musical notes."
 ---
 
 <div>
