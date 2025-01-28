@@ -54,20 +54,12 @@
   ],
   "volunteer": [
     {
-      "organization": "School of Engineering, Blekinge Institute of Technology",
-      "website": "https://www.bth.se/eng/",
-      "position": "Visiting Professor",
-      "startDate": "2006",
-      "endDate": "",
-      "summary": "Research in software engineering"
-    },
-    {
-      "organization": "Distributed Systems Technology Centre, University of Queensland",
-      "website": "https://www.uq.edu.au/",
-      "position": "Senior Research Fellow",
-      "startDate": "1997",
-      "endDate": "",
-      "summary": "Research in computer supported cooperative work"
+      "organization": "Gameheads",
+      "website": "https://gameheadsoakland.org",
+      "position": "Student",
+      "startDate": "2023-03-15",
+      "endDate": "Present",
+      "summary": "Develop soft skills for game development and network with people in the industry"
     }
   ],
   "references": [
