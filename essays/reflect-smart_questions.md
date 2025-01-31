@@ -45,7 +45,11 @@ A: It is a matter of operator precedence together with the nature of integer div
 And explains how:
 result *= (x + i) / i; is equivalent to result = result * ((x + i) / i);
 and 
-result = result * (x + i) / i; is equivalent to result = (result * (x + i)) / i;
+result = result * (x + i) / i; is equivalent to result = (result * (x + i)) / I;
+
+Then an example with numbers. 
 
 ```
-h
+The Answer Poster (AP) has a few edits with a *Note* section referencing the comments on their answer which explains why 
+`result * (x + i) will always be divisible by i` ``hi``
+
