@@ -11,6 +11,6 @@ labels:
   - Community
 ---
 
-<img width="150px" class="rounded float-start pe-4" src="../img/reflect-ts/TypeScriptSquare.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/reflec-smartQs/stackOverflow_essayPic.png">
 
 # Previously...
