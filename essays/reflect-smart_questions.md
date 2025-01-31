@@ -64,5 +64,23 @@ The Answer Poster (AP) has a few edits with a *Note* section referencing the com
 
 This is a great example of a 'smart' question as it lead to a clear and concise answer from AP and the commenters, with the bonus of a 'rule of thumb' to reduce the amount of errors similar to integer division (though being case by case). Since this was on Stack Overflow, it is public and open to anyone to find if they have the same question. 
 
+# A (not) Smart Question
+An example of a [not Smart Question](https://stackoverflow.com/questions/79256830/error-in-creating-new-react-app-using-create-react-app-appname) is:
+```
+Q: Error in creating new React app using create-react-app appname
 
+Followed by copy and pasted errors:
 
+npm error code ERESOLVE
+npm error ERESOLVE unable to resolve dependency tree
+etc....
+```
+There are a few different answers but none have been accepted by the OP. Some considered switching to another build tool and two had the same answer. The first comment on the original question ends with "provide more details", which is a clear sign that OP did not ask a smart  question.
+
+# Why is it not Smart?
+**Vague**: OP did not provide any specific details on their problem and only posted their error code.
+
+**No Effort**: OP did not show any effort to try and solve their problem before posting.
+
+# Conclusion: Be Smart, Ask Smart
+Asking smart questions is better for the one asking and anyone who is trying to answer. When you are clear and specific, and provide context about what you're trying to do, the person who answers can be as clear and precise while offering bonus tips and advice. That way both sides can save time and work more efficiently to solve problems and learn. "There are no *dumb* questions" but there is a *smarter* way to ask them. 
