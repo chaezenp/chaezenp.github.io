@@ -19,3 +19,5 @@ summary: "In Unreal Engine 4, I created a floating island scene."
 
 Through Gameheads I learned Blender and Unreal Engine 4. Utilizing the free assets in the Unreal store, I created a scene of a floating island with an ancient tower that has since been overgrown. The story goes that the crystals have magical properties that allow the surrounding land to float into the air. 
 
+When I got these free assets, the bottom of them were open. To fix this I duplicated the rocks and flipped them and grouped them together to make a full rock.
+
