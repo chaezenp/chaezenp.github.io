@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/reflec-smartQs/stackOverflow_essayPic.png">
+<img width="250px" length="700px" class="rounded float-start pe-4" src="../img/codestandards/ESLint-logo.png">
 
 
 # Why standard?
