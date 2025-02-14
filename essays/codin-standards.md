@@ -25,7 +25,7 @@ When I first started to use ESLint, I thought the errors were very trivial and s
 - Trailing Spaces
 - Expected indentation of 2 spaces but found
 
-But when I fixed these errors, I made a realization. ESLint and coding standards are to help programmers develop better habits for writing code. Especially as I am still new to Javascript and Typescript, it is helpful to catch errors in a language I am not very familiar with. I think that ESLint will help me develop my skills in Typescript and programming as a whole. 
+But when I fixed these errors, I made a realization. ESLint and coding standards are to help programmers develop better habits for writing code. Especially as I am still new to Javascript and Typescript, it is helpful to catch errors in a language I am not very familiar with. Compared to others, Typescript as a language aims to have this sort of standard to help developers clearly define everything so others can look back on it and understand. I think that ESLint will help me develop my skills in Typescript and programming as a whole. 
 
 # The Standard
 In the end, coding standards are very useful as the world continues to become more digital. With so many devices and programs out there, a standard would help any programmer to understand the code, to fix bugs, and add onto pre-existing code. With a high level of consistency, developers across the world can work more efficiently and effectively. Using a coding standard can achieve a higher rate of getting help when a problem occurs. The standard will make the world run faster while taking less space. 
