@@ -11,8 +11,6 @@ labels:
   - UI
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/UI-reflect/bootstrap-logo.png">
-
 # Before
 
 
