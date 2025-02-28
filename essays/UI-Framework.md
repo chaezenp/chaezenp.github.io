@@ -70,8 +70,8 @@ Compared to standard HTML, I would have to define each of these classes in a CSS
   align-items: center;
 }
 .image-fluid {
-  width: 100%;      /* Make the image scale to the width of its container */
-  height: auto;     /* Maintain aspect ratio */
+  width: 100%;
+  height: auto;
 }
 ```
 
