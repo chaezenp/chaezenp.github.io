@@ -28,6 +28,20 @@ labels:
   </div>
 </div>
 
+``
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col d-flex flex-column align-items-center">
+    <img width="200px" class="rounded" src="../img/UI-reflect/kurzgesagt-home-port.png">
+      <h6 class="mt-2">Original</h6>
+    </div>
+    <div class="col d-flex flex-column align-items-center">
+    <img width="200px" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
+      <h6 class="mt-2">Remake</h6>
+    </div>
+  </div>
+</div>
+``
 
 
 
