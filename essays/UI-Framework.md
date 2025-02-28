@@ -18,8 +18,7 @@ labels:
 <div class="d-flex">
 <img width="200px" class="rounded" src="../img/UI-reflect/kurzgesagt-home-port.png">
 <img width="200px" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
-  <h1>Original</h1>
-  <h1>Remake</h1>
+  <h6>Original       Remake</h6>
 </div>
 
 
