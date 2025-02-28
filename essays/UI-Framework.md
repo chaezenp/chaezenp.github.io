@@ -1,8 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI: Intricacies of a webpage"
-# All dates must be YYYY-MM-DD format!
+title: "Intricacies of a webpage"
 date: 2025-02-27
 published: true
 labels:
@@ -11,8 +10,23 @@ labels:
   - UI
 ---
 
-# Before
-
+# Webpages...
+Webpages
+wrf
+w
+rf
+were
+w
+er
+f
+f
+w
+fer
+w
+rf
+wr
+f
+rwf
 
 
 <div class="container">
@@ -27,6 +41,8 @@ labels:
     </div>
   </div>
 </div>
+
+This simple 
 
 ```
 <div class="container">
