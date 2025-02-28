@@ -19,11 +19,11 @@ Today, there is a multitude of websites and services that make creating a webpag
 <div class="container">
   <div class="row justify-content-center">
     <div class="col d-flex flex-column align-items-center">
-    <img width="auto" class="rounded" src="../img/UI-reflect/kurzgesagt-home-port.png">
+    <img class="img-fluid" src="../img/UI-reflect/kurzgesagt-home-port.png">
       <h6 class="mt-2">Original</h6>
     </div>
     <div class="col d-flex flex-column align-items-center">
-    <img width="auto" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
+    <img class="img-fluid" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
       <h6 class="mt-2 text-align-left">Remake</h6>
     </div>
   </div>
@@ -40,7 +40,7 @@ I used the UI framework Bootstrap to recreate the Kurzgesagt homepage. I also us
       <h6 class="mt-2">Original</h6>
     </div>
     <div class="col d-flex flex-column align-items-center">
-    <img  class="img-fluid" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
+    <img width="auto" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
       <h6 class="mt-2">Remake</h6>
     </div>
   </div>
