@@ -10,24 +10,8 @@ labels:
   - UI
 ---
 
-# Webpages...
-Webpages
-wrf
-w
-rf
-were
-w
-er
-f
-f
-w
-fer
-w
-rf
-wr
-f
-rwf
-
+# Webpages, Webpages...
+Most webpages are made in HTML, the basics are simple. Combine it with a little CSS and your webpage can be as colorful as a rainbow. Then you fall down the rabbit hole of **<div>**
 
 <div class="container">
   <div class="row justify-content-center">
