@@ -15,7 +15,7 @@ Today, there is a multitude of websites and services that make creating a webpag
 
 <div class="container">
   <div class="row">
-<img width="250px" height="auto" class="rounded float-start pe-4" src="../img/UI-reflect/bootstrap-logo.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/UI-reflect/bootstrap-logo.png">
 <h1>not Boot Camp</h1>
 </div>
 </div>
