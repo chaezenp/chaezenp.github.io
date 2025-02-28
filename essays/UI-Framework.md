@@ -16,8 +16,8 @@ labels:
 # Previously...
 
 <div class="row">
-<img width="200px" class="rounded float-start pe-4" src="../img/UI-reflect/kurzgesagt-home.png">
-<img width="200px" class="rounded float-start pe-4" src="../img/UI-reflect/my-kurzgesagt-home.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/UI-reflect/kurzgesagt-home-port.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
 </div>
 
 
