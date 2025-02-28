@@ -16,6 +16,7 @@ labels:
 # Before
 
 <div class="d-flex">
+  # Original            Remake
 <img width="200px" class="rounded" src="../img/UI-reflect/kurzgesagt-home-port.png">
 <img width="200px" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
 </div>
