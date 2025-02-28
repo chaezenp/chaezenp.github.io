@@ -15,8 +15,11 @@ labels:
 
 # Previously...
 
+<div class="row">
+<img width="200px" class="rounded float-start pe-4" src="../img/UI-reflect/kurzgesagt-home.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/UI-reflect/my-kurzgesagt-home.png">
+</div>
 
-<img width="200px" class="rounded float-start pe-4" src="../img/UI-reflect/bootstrap-logo.png">
 
 
 <ul>Grammarly is used to assist in writing this essay only in word choice, spelling, and grammar.</ul>
