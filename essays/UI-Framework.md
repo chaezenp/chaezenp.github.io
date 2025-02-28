@@ -15,7 +15,7 @@ labels:
 
 # Before
 
-<div class="d-flex"
+<div class="d-flex">
 <img width="100px" class="rounded" src="../img/UI-reflect/kurzgesagt-home-port.png">
 <img width="100px" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
 </div>
