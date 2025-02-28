@@ -16,10 +16,13 @@ labels:
 # Before
 
 <div class="d-flex">
-<img width="200px" class="rounded" src="../img/UI-reflect/kurzgesagt-home-port.png">
-<img width="200px" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
-  <div class="d-flex">
-  <h6 class="p-5">Original</h6>      <h6>Remake</h6>
+  <div class="d-flex flex-column align-items-center">
+    <img width="200px" class="rounded" src="../img/UI-reflect/kurzgesagt-home-port.png">
+    <h6 class="p-2">Original</h6>
+  </div>
+  <div class="d-flex flex-column align-items-center">
+    <img width="200px" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
+    <h6 class="p-2">Remake</h6>
   </div>
 </div>
 
