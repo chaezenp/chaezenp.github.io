@@ -15,8 +15,10 @@ labels:
 
 # Before
 
-<img width="100px" class="rounded float-start pe-4" src="../img/UI-reflect/kurzgesagt-home-port.png">
-<img width="100px" class="rounded float-end pe-4" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
+<div class="d-flex"
+<img width="100px" class="rounded" src="../img/UI-reflect/kurzgesagt-home-port.png">
+<img width="100px" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
+</div>
 
 
 
