@@ -15,9 +15,7 @@ Today, there is a multitude of websites and services that make creating a webpag
 
 # Bootstrap not Boot Camp
 <img width="200px" class="rounded float-start pe-4" src="../img/UI-reflect/bootstrap-logo.png">
-"Build fast, responsive sites with Bootstrap"
-
-
+## "Build fast, responsive sites with Bootstrap"
 
 <div class="container">
   <div class="row justify-content-center">
