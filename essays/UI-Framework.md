@@ -19,11 +19,11 @@ Today, there is a multitude of websites and services that make creating a webpag
 <div class="container">
   <div class="row justify-content-center">
     <div class="col d-flex flex-column align-items-center">
-    <img width="200px" class="rounded" src="../img/UI-reflect/kurzgesagt-home-port.png">
+    <img width="auto" class="rounded" src="../img/UI-reflect/kurzgesagt-home-port.png">
       <h6 class="mt-2">Original</h6>
     </div>
     <div class="col d-flex flex-column align-items-center">
-    <img width="200px" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
+    <img width="auto" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
       <h6 class="mt-2 text-align-left">Remake</h6>
     </div>
   </div>
@@ -70,6 +70,6 @@ Compared to standard HTML, I would have to define each of these classes in a CSS
 }
 ```
 
-Like many people, I don't want to waste my time working on something that can be done more efficiently. 
+Like many people, I don't want to waste my time working on something that can be done more efficiently or automatically. Though Bootstrap isn't the one-and-done fix for everything, it does save a lot of time for me to implement more stylistic choices that I want. But like missing a semicolon in Java, a misplaced or missing `</div>` can throw everything off and end up wasting more time. 
 
 <ul>Grammarly is used to assist in writing this essay only in word choice, spelling, and grammar.</ul>
