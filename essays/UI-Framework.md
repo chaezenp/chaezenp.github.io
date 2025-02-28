@@ -15,14 +15,21 @@ labels:
 
 # Before
 
-<div class="d-flex">
-  <div class="d-flex flex-column align-items-start">
+
+
+<div class="container">
+  <div class="row justify-content-center">
+    <!-- First Image with Text Below -->
+    <div class="col-md-4 d-flex flex-column align-items-center">
     <img width="200px" class="rounded" src="../img/UI-reflect/kurzgesagt-home-port.png">
-    <h6 class="p-2">Original</h6>
-  </div>
-  <div class="d-flex flex-column align-items-end">
+      <h6 class="mt-2">Original</h6>
+    </div>
+
+    <!-- Second Image with Text Below -->
+    <div class="col-md-4 d-flex flex-column align-items-center">
     <img width="200px" class="rounded" src="../img/UI-reflect/my-kurzgesagt-home-port.png">
-    <h6 class="p-2">Remake</h6>
+      <h6 class="mt-2">Remake</h6>
+    </div>
   </div>
 </div>
 
