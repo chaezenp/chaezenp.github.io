@@ -9,17 +9,17 @@ labels:
   - BootStrap
   - UI
 ---
+<img width="200px" class="rounded float-start pe-4" src="../img/UI-reflect/bootstrap-logo.png">
+
+### "Build fast, responsive sites with Bootstrap"
+
 
 # Webpages, Webpages...
 Today, there is a multitude of websites and services that make creating a webpage or website so much easier without touching a single bit of code. Yet sometimes you want the webpage to look a certain way that the program just doesn't allow. So you try to make it yourself. Most webpages are made in HTML, and the basics are simple. Combine it with a little CSS, and your webpage can be as stylish as you want. Then you fall down the rabbit hole of classes, ids, etc, as your code becomes so clustered with `<div class="">` this and `<div id="" class="">` that. You then question whether adding that little bit of flare was worth it. This is where UI frameworks come in. 
 
 # Bootstrap not Boot Camp
-<img width="200px" class="rounded float-start pe-4" src="../img/UI-reflect/bootstrap-logo.png">
 
-
-"Build fast, responsive sites with Bootstrap"
-
-
+<div class="container">
   <div class="row justify-content-center">
     <div class="col d-flex flex-column align-items-center">
     <img class="img-fluid" src="../img/UI-reflect/kurzgesagt-home-port.png">
@@ -30,6 +30,7 @@ Today, there is a multitude of websites and services that make creating a webpag
       <h6 class="mt-2 text-align-left">Remake</h6>
     </div>
   </div>
+</div>
 
 
 I used the UI framework Bootstrap 5 to recreate the Kurzgesagt homepage. I also used Bootstrap to make this side-by-side comparison. The code for the comparison is quite simple.
