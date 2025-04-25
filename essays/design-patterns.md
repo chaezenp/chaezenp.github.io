@@ -32,7 +32,8 @@ When creating levels with dynamic platforms, such as a moving platform, it would
 
 Something everyone is familiar with is a menu system, whether it be in Google Drive or a music app. As in many games, I also developed a simple menu system with sub-menus for sound settings, a controls page, and credits to my team. This is an example of a **Composite Design Pattern**, a Structural Design Pattern, that allows you to treat individual objects and groups of objects uniformly, typically by organizing objects into tree-like structures. 
 
-<img width="20%" class="rounded float-start pe-4" src="">
+<img width="20%" class="rounded float-start pe-4" src="../img/harmony-quest/HQMainMenu.png"> <img width="20%" class="rounded float-start pe-4" src="../img/harmony-quest/HQVolumeMenu.png">
+
 
 I often used the state of the player character to determine what they can and can't do. For example, to negate an infinite jump, I would check to determine if the player was on the ground, like:
 ```
