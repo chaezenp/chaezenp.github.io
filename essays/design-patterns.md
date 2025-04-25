@@ -18,10 +18,19 @@ As the years go by, people will continue to arrive at problems that block their 
 
 
 # Patterns Are Useful
+Design patterns come in three types: Creational, Structural, and Behavioral.
+Creational: Focuses on the process or challenges of object creation and how to instantiate objects flexibly and efficiently.
+Structural: Focuses on the organization and composition of classes and objects to create larger structures while ensuring flexibility and scalability.
+Behavioral: Focuses on the communication and interaction between objects, managing how they collaborate and share responsibilities.
 The best way to demonstrate how useful design patterns are is to use examples.
 
+When developing [Harmony Quest](https://chaezenp.github.io/projects/harmonyquest.html) and [The Night March](https://chaezenp.github.io/projects/night-march.html) I used at least one of each type of design patterns. 
 
-When developing [Harmony Quest](https://chaezenp.github.io/projects/harmonyquest.html) and [The Night March](https://chaezenp.github.io/projects/night-march.html) I often used the state of the player character to determine what they can and can't do.
+When creating levels with dynamic platforms, such as a moving platform, it would be very inefficient to recreate it in each level. As I developed these two games in **Unity**, I was able to make a ``prefab``, a reusable game object or asset that can be easily instantiated or modified across multiple levels, containing premade settings, components, and behaviors. In Harmony Quest, I used many ``prefabs`` for platforms and player types to be easily implemented into any level. This is an example of a **Prototype Design Pattern**, a Creational Design Pattern, in which you save an existing object, which would otherwise be time-consuming to re-create, and copy/clone it. 
+
+Something everyone is familiar with is a menu system, whether it be in Google Drive or a music app. As in many games, I also developed a simple menu system with sub-menus for sound settings, a controls page, and credits to my team. This is an example of a **Composite Design Pattern**, a Structural Design Pattern, that allows you to treat individual objects and groups of objects uniformly, typically by organizing objects into tree-like structures. 
+
+I often used the state of the player character to determine what they can and can't do. For example, to negate an infinite jump, I would check to determine if the player was on the ground, like:
 ```
 using UnityEngine;
 
@@ -49,7 +58,6 @@ public class PlayerController : MonoBehaviour
     void CheckGrounded()
     {
         // Raycast or collision check to see if the player is on the ground
-        // This can be customized as needed for your game
         isGrounded = Physics2D.Raycast(transform.position, Vector2.down, 0.1f); // Simple raycast downward from the player
     }
 
@@ -59,3 +67,6 @@ public class PlayerController : MonoBehaviour
     }
 }
 ```
+
+
+This is an example of **State Design Pattern**, a Behavioral type of Design Pattern, in which it changes the behavior based on an object's state. In this case, the player is in the air, therefore, you can't jump again until contact with the ground or a ground-type platform. This can be applied to a multitude of states the player may be in, like mud, slowing a player's movement down, or a player being able to jump higher in a "low-gravity" zone. 
