@@ -84,4 +84,4 @@ This is an example of **State Design Pattern**, a Behavioral type of Design Patt
 
 
 # Conclusion
-By using the most applicable Design Pattern type, developers can create more efficiently, saving precious time for more complex challenges. As those complex problems arise, Design Patterns become all the more useful to tackle the problem, which helps to make the project more manageable. 
+By using the most applicable Design Pattern type, developers can create more efficiently, saving precious time for more complex challenges. As those complex problems arise, Design Patterns become all the more useful to tackle the problem, which helps to make the project more manageable. By utilizing Design Patterns, developers can create higher-quality code that can last in the ever-changing software updates.
