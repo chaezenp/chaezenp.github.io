@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Is AI Useful?"
 # All dates must be YYYY-MM-DD format!
-date: 2025-04-24
+date: 2025-05-06
 published: true
 labels:
   - Design Patterns
