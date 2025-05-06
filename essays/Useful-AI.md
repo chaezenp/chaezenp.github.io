@@ -10,7 +10,7 @@ labels:
   - Programming
 ---
 
-<img width="20%" class="rounded float-start pe-4" src="https://cdn.pixabay.com/photo/2020/05/30/17/57/flower-5239814_1280.jpg">
+<img width="20%" class="rounded float-start pe-4" src="../img/AI-essay/chatgptLogo.png">
 
 
 # How is AI used?
