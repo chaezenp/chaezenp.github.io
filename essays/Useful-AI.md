@@ -22,7 +22,7 @@ Artificial Intelligence, or AI, has been on the rise in education for better or 
 
 # Personal Experience with AI
 
-## 1. Experience WODs e.g. E18
+### 1. Experience WODs e.g. E18
   
 ## 2. In-class Practice WODs
 
