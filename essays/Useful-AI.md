@@ -13,7 +13,8 @@ labels:
 
 <div class="row">
     <img width="20%" class="rounded pe-4" src="../img/AI-essay/chatgptLogo.png">
-    <img width="20%" class="rounded pe-4" src="../img/AI-essay/Microsoft_Copilot_Icon.png">
+    <img width="20%" class="rounded pe-4" src="../img/AI-essay/copilot-logo-color.png">
+    <img width="20%" class="rounded pe-4" src="../img/AI-essay/GoogleGemini.png">
 </div>
 
 # Introduction
