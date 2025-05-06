@@ -12,12 +12,8 @@ labels:
 ---
 
 <div class="row">
-  <div class="column">
     <img width="20%" class="rounded pe-4" src="../img/AI-essay/chatgptLogo.png">
-  </div>
-  <div class="column">
     <img width="20%" class="rounded pe-4" src="../img/AI-essay/Microsoft_Copilot_Icon.png">
-  </div>
 </div>
 
 # Introduction
