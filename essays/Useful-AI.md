@@ -10,14 +10,35 @@ labels:
   - Programming
 ---
 
-<img width="20%" class="rounded float-start pe-4" src="../img/AI-essay/chatgptLogo.png">
+<img width="20%" class="rounded float-start pe-4" src="../img/AI-essay/chatgptLogo.png"> <img width="20%" class="rounded float-start pe-4" src="../img/AI-essay/Microsoft_Copilot_Icon.png">
+
+# Introduction
 
 
-# How is AI used?
-As the years go by, people will continue to arrive at problems that block their path. But if you're lucky, someone out in the world has come to this problem before (and hopefully found a solution). 
+# Personal Experience with AI
+1. Experience WODs e.g. E18
+2. In-class Practice WODs
+3. In-class WODs
+4. Essays
+5. Final project
+6. Learning a concept / tutorial
+7. Answering a question in class or in Discord
+8. Asking or answering a smart-question
+9. Coding example e.g. “give an example of using Underscore .pluck”
+10. Explaining code
+11. Writing code
+12. Documenting code
+13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”
+14. Other uses in ICS 314 not listed
 
+# Impact on Learning and Understanding
 
-# How is AI used in the classroom?
+# Practical Applications
 
+# Challenges and Opportunities
 
-When developing [Harmony Quest](https://chaezenp.github.io/projects/harmonyquest.html) and [The Night March](https://chaezenp.github.io/projects/night-march.html), I used at least one of each type of Design Pattern. 
+# Comparative Analysis
+
+# Future Considerations
+
+# Conclusion
