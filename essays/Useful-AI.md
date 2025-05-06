@@ -10,7 +10,7 @@ labels:
   - Programming
   - Software Engineering
 ---
-<img width="20%" class="rounded pe-4" src="../img/AI-essay/RobotvHuman.png">
+<img width="80%" class="rounded pe-4" src="../img/AI-essay/RobotvHuman.png">
 <div class="row">
 <div class="column">
     <img width="20%" class="rounded pe-4" src="../img/AI-essay/ChatGptLogo.png">
@@ -51,7 +51,8 @@ My personal experience using generative AI, such as ChatGPT and Google Gemini (A
   As the name suggests, these are practice WODs that are a bit higher stakes than the homework WODs, as you only get one attempt, but trying would get you full credit for the assignment. As these are practice for the "actual" in-class WODs, **I tended to not use AI** because I wanted to push myself, to hone my skills, and learn from what I missed so I could do better on the "actual" WODs. 
   
 ### 3. In-class WODs
-  These were the most stress-inducing of the three different WODs, as these were graded. I do not handle time pressure well, so while **I did use AI** for these WODs, I tried first until Av time was done. For the first few, I did not use AI because I was stubborn not to use it, but as I continued to get "did not finish" times, I used AI to complete WODs fully. I used ChatGPT, GitHub Copilot (the extension version in Visual Studio Code), and Google Gemini (as it's the first thing that shows up in Google search for most code-related questions). An example of a prompt I asked ChatGPT was "[a snippet of code I had so far] how to make text in the center of the middle section," in which it gave me the modified code, where I took a second to read the modified section and after I understood why it was that way I implemented it.
+  These were the most stress-inducing of the three different WODs, as these were graded. I do not handle time pressure well, so while **I did use AI** for these WODs, I tried first until Av time was done. For the first few, I did not use AI because I was stubborn not to use it, but as I continued to get "did not finish" times, I used AI to complete WODs fully. I used ChatGPT, GitHub Copilot (the extension version in Visual Studio Code), and Google Gemini (as it's the first thing that shows up in Google search for most code-related questions). An example of a prompt I asked ChatGPT was "[a snippet of code I had so far] how to make text in the center of the middle section," in which it gave me the modified code, where I took a second to read the modified section and after I understood why it was that way I implemented it. Yet sometimes the modified code generated doesn't meet the specifications of the WOD such as 
+  
 ### 4. Essays
   Outside of Grammarly (and sometimes ChatGPT because I don't have Grammarly premium) for grammar, word choice, and spelling, **I have not used AI** to write essays because I feel it would not capture my voice. In past classes, I used AI to outline essays but never write them. In software engineering, the essays written don't need to follow a traditional English paper, so it adds more to the reason not to use AI. Essays in software engineering tend to be reflections, and AI can't truly reflect your opinion. 
   
