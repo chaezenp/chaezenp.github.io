@@ -79,7 +79,7 @@ A very popular project that has made itʻs rounds around the world is Sophia the
   
 </div>
   
-<img width="30%" class="rounded float pe-4" src="../img/AI-essay/AtlasRobot.png">
+<img width="30%" class="rounded float-end pe-4" src="../img/AI-essay/AtlasRobot.png">
   
 On the more practical side, Boston Dynamicʻs' Atlas robot is designed to mimic the movements of humans. Over the years, they have worked on Atlas' hydraulic model as the intial goal for Atlas was to used in search and rescue applications. It has been shown to walk, run, jump, picking up items, and do parkour. In 2024, with the rise of humanoid robots, they had developed an electric model of Atlas, which has better hardware for learning. According to Boston Dynamics, "Atlas is demonstrating reinforcement learning policies developed using a motion capture suit." This continues the innovation for the world to have more human-like robots (for better or worse).
 </div>
