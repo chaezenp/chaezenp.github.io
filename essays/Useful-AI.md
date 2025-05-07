@@ -12,18 +12,6 @@ labels:
 ---
 <img width="80%" class="rounded pe-4" src="../img/AI-essay/RobotvHuman.png">
 
-# Table of Contents 
-  1. <a href="I. Introduction">Introduction</a>
-  2. <a href="#II. Personal Experience with AI">Personal Experience with AI</a>
-  3. <a href="#III. Impact on Learning and Understanding">Impact on Learning and Understanding</a>
-  4. <a href="#IV. Practical Applications">Practical Applications</a>
-  5. <a href="#V. Challenges and Opportunities">Challenges and Opportunities</a>
-  6. <a href="#VI. Comparative Analysis">Comparative Analysis</a>
-  7. <a href="#VII. Future Considerations">Future Considerations</a>
-  8. <a href="#viii. conclusion">Conclusion</a>
-
-
-
 # I. Introduction
 Artificial Intelligence, or AI, has been on the rise in education for better or worse. On the one hand, it can be incredibly beneficial to students and educators as AI can be used to enhance learning in a way that is easier to learn. On the other hand, it is a tool to get out of work and education, as "the AI can do it for me". In turn, teachers alike either try to ban it (and have safeguards to detect its use) or try to integrate it into their classes. It is quite a double-edged sword. 
 
