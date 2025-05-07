@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Is AI Useful?"
+title: "Artifical Learning?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-05-06
 published: true
@@ -63,12 +63,17 @@ My personal experience using generative AI, such as ChatGPT and Google Gemini (A
   **I have used AI** (ChatGPT) to explain concepts and topics to me when I was confused. For example, when we first started to use Databases (PostgreSQL), the installation process was confusing, as the guide first presented us with the source code installation instead of the package installer. Fast forward a bit after everything was installed, some commands, like creating a database, in the terminal did not work for me, and when I reinstalled, I had the same problems. So I used AI to look for alternative ways to get the same result with different commands. It led me to use the SQL shell, which came with the PostgreSQL installation, and had different commands, but I managed to achieve the result for my assignments. 
 
 ### 7. Answering a Question in Class or in Discord
+** I have not used AI** to answer a question because I often am the one with questions in which someone had already asked in discord already. 
 
 ### 8. Asking or Answering a Smart-Question
+** I have not used AI ** to ask a Smart question because it is redundant to ask AI to create a question in which myself or the AI could answer. Neither have I used it to answer smart questions as 
 
 ### 9. Coding Example e.g. “give an example of using Underscore .pluck”
 
+
 ### 10. Explaining Code
+When using a template or learning new syntax or functions, **I have partially used AI** to explain code.
+
 
 ### 11. Writing Code
 
