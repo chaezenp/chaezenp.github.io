@@ -69,6 +69,7 @@ From my experiences, AI *can* be a useful tool for learning and understanding if
 The instant solutions of AI have weakened my problem-solving and critical thinking abilities because I do not need them when using AI. I have become slower to solve problems, as continuously prompting an AI until I reach an answer is much easier than critically thinking. But the explanations that come with solutions are concise yet great for my comprehension. I am able to understand a lot more when topics are broken up into parts, such as a proof is when using subproblems to prove the overall solution. 
 
 # IV. Practical Applications
+<div>
 <img width="30%" class="rounded float-start pe-4" src="../img/AI-essay/SophiaRobot.png">
 
 A very popular project that has made itʻs rounds around the world is Sophia the Robot, by Hanson Robotics. She is a robot powered by AI to create a more human connection between man and machine. Many say that she is a "social" robot that can mimic social behaviors and stimulate feelings in humans. Paired with the robotics of facial movement, Sophia can be very expressive to which some say is uncanny. Her AI can learn from what she can see and hear, and be able to hold "human-like" conversations. 
@@ -76,6 +77,7 @@ A very popular project that has made itʻs rounds around the world is Sophia the
 <img width="30%" class="rounded float-end pe-4" src="../img/AI-essay/AtlasRobot.png">
   
 On the more practical side, Boston Dynamicʻs' Atlas robot is designed to mimic the movements of humans. Over the years, they have worked on Atlas' hydraulic model as the intial goal for Atlas was to used in search and rescue applications. It has been shown to walk, run, jump, picking up items, and do parkour. In 2024, with the rise of humanoid robots, they had developed an electric model of Atlas, which has better hardware for learning. According to Boston Dynamics, "Atlas is demonstrating reinforcement learning policies developed using a motion capture suit." This continues the innovation for the world to have more human-like robots (for better or worse).
+</div>
 
 # V. Challenges and Opportunities
 Some challenges with AI in my software engineering course is when AI like ChatGPT generates a solution that is far off from what we had previously learned in the course. This, in turn, trained me to have better prompts that were more effective in achieving a satisfactory answer. Through this software engineering course, I have learned not to trust AI as much as before blindly and to verify any AI solutions I use to ensure they work properly. I do think that many Computer Science classes can benefit from the use of AI, but it must have clear guidelines on itʻs use so students are encouraged to use it as a tool to help them understand content instead of spitting out answers. For better or for worse, the world of technology is increasing itʻs use of AI, especially in software, therefore, it is apparent that more and more curricula can implement it in a positive but disciplined way.
@@ -93,7 +95,7 @@ AI has the potential to help students learn and understand better than before. W
 The benefits of AI in education rely on both the students and teachers to find the right balance. With many students being overly dependent on AI, educators must define the limits of AI use, but also allow some freedom. Many students also need to be self-disciplined in their overuse of AI and must meet in the middle with teachers in order to use AI that is benefical to their learning.
 
 # VIII. Conclusion
-<img width="80%" class="rounded float-start pe-4" src="../img/AI-essay/AIHandShake.png">
+<img width="50%" class="rounded float-start pe-4" src="../img/AI-essay/AIHandShake.png">
 
 People went from "just Google it" to "Let me ask ChatGPT." The over-reliance on AI, especially in education, has become very detrimental to the immediate future workforce. Many people would not prefer a doctor who "ChatGPTʻd" their way through school to a doctor who passed by themselves. As my algorithms teacher always said, "Would you fly a plane with this code?" (in reference to proving why the code works), I would answer no, as the number of people who joke about ChatGPT deserving their degree more than them is frightening. 
 But AI does have the potential to help students learn by breaking down topics and creating personalized lessons. But to reach that potential, students need guidance, they need examples. Just like creating prompts for AI, students need clear and precise guidelines and limits for AI use in the classroom. 
