@@ -11,19 +11,8 @@ labels:
   - Software Engineering
 ---
 <img width="80%" class="rounded pe-4" src="../img/AI-essay/RobotvHuman.png">
-<div class="row">
-<div class="column">
-    <img width="20%" class="rounded pe-4" src="../img/AI-essay/ChatGptLogo.png">
-</div>
-<div class="column">
-    <img width="20%" class="rounded pe-4" src="../img/AI-essay/GH-copilot-logo.png">
-</div>
-<div class="column">
-    <img width="20%" class="rounded pe-4" src="../img/AI-essay/GoogleGemini.png">
-</div>
-</div>
 
-# Table of Contents (NEED TO FIX)
+# Table of Contents 
   1. <a href="#i. introduction">Introduction</a>
   2. <a href="#II. Personal Experience with AI">Personal Experience with AI</a>
   3. <a href="#III. Impact on Learning and Understanding">Impact on Learning and Understanding</a>
@@ -104,14 +93,15 @@ Some challenges with AI with my software engineering course is when AI like Chat
 # VI. Comparative Analysis
 Provide a comparative analysis between traditional teaching methods and AI-enhanced approaches in the context of software engineering education. Consider aspects like engagement, knowledge retention, and practical skill development.
 Going one way or the other is not a wise decision. With everything in life, moderation is key. 
-For learning and understanding new concepts and topics, an AI-enhanced approach may fare better compared to traditional methods, as everyone learns differently. Especially in information-dense courses where a student has to read and understand multiple chapters a week, and most times move on to something that builds off that. Breaking up the content will reduce stress on students as they can more easily grasp concepts that are taught. Though this method also has drawbacks, as generative AI isnʻt always giving relevant or correct information. This is why AI should be used as a tool, with guidance from their teachers.
-
-Yet, maintaining knowledge is much more suited to a traditional hands-on approach. This approach yields much better results than using AI. For example, my software engineering courseʻs WODs are a perfect example of a way to reinforce the knowledge gained. Repetition is key; therefore, having these types of exercises enhances learning.
-
+For learning and understanding new concepts and topics, an AI-enhanced approach may fare better compared to traditional methods, as everyone learns differently. Especially in information-dense courses where a student has to read and understand multiple chapters a week, and most times move on to something that builds off that. Breaking up the content will reduce stress on students as they can more easily grasp concepts that are taught. Though this method also has drawbacks, as generative AI isnʻt always giving relevant or correct information. Also, it can be misused where students just read what the AI has generated, and nothing sticks. This is why AI should be used as a tool, with guidance from their teachers. Yet, maintaining knowledge is much more suited to a traditional hands-on approach. This approach yields much better results than using AI. For example, my software engineering courseʻs WODs are a perfect example of a way to reinforce the knowledge gained. Repetition is key; therefore, having these types of exercises enhances understanding of course content.
 
 # VII. Future Considerations
-Discuss your thoughts on the future role of AI in software engineering education. Consider potential advancements, challenges, and areas for improvement.
+As I have reiterated in this essay, AI does have a role in many tech-related education. But without guidance, it will continue to be misused by students to get out of doing the work.
 
+AI has the potential to help students learn and understand better than before. While I had given examples of students using AI to break up concepts into more easily managed parts previously, nothing is stopping teachers to do the same. AI-assisted lessons can be incredibly beneficial to both instructor and student. It can also help tailor lessons to the individuals, which can enhance their overall understanding of a topic. Additionally, AI can be used to give more practice to students who want to further develop their skills. It can be used in conjunction with instructor-provided practice to generate more practice problems for students to solve. 
+
+The benefits of AI in education rely on both the students and teachers to find the right balance. With many students being overly dependent on AI, educators must define the limits of AI use, but also allow some freedom. Many students also need to be self-disciplined in their overuse of AI and must meet in the middle with teachers in order to use AI that is benefical to their learning.
 
 # VIII. Conclusion
-People went from "just google it" to "Let me ask ChatGPT," which the former could've given better results.
+People went from "just Google it" to "Let me ask ChatGPT." The over-reliance on AI, especially in education, has become very detrimental to the immediate future workforce. Many people would not prefer a doctor who "ChatGPTʻd" their way through school to a doctor who passed by themselves. As my algorithms teacher always said, "Would you fly a plane with this code?" (in reference to proving why the code works), I would answer no, as the number of people who joke about ChatGPT deserving their degree more than them is frightening. 
+But AI does have the potential to help students learn by breaking down topics and creating personalized lessons. But to reach that potential, students need guidance, they need examples. Just like creating prompts for AI, students need clear and precise guidelines and limits for AI use in the classroom. 
