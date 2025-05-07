@@ -12,6 +12,8 @@ labels:
 ---
 <img width="80%" class="rounded pe-4" src="../img/AI-essay/RobotvHuman.png">
 
+<a href="#-I.-Introduction">Introduction</a>
+
 # I. Introduction
 Artificial Intelligence, or AI, has been on the rise in education for better or worse. On the one hand, it can be incredibly beneficial to students and educators as AI can be used to enhance learning in a way that is easier to learn. On the other hand, it is a tool to get out of work and education, as "the AI can do it for me". In turn, teachers alike either try to ban it (and have safeguards to detect its use) or try to integrate it into their classes. It is quite a double-edged sword. 
 
@@ -76,6 +78,7 @@ A very popular project that has made itʻs rounds around the world is Sophia the
 <img width="30%" class="rounded float-start pe-4" src="../img/AI-essay/AtlasRobot.png">
   
 On the more practical side, Boston Dynamicʻs' Atlas robot is designed to mimic the movements of humans. Over the years, they have worked on Atlas' hydraulic model as the intial goal for Atlas was to used in search and rescue applications. It has been shown to walk, run, jump, picking up items, and do parkour. In 2024, with the rise of humanoid robots, they had developed an electric model of Atlas, which has better hardware for learning. According to Boston Dynamics, "Atlas is demonstrating reinforcement learning policies developed using a motion capture suit." This continues the innovation for the world to have more human-like robots (for better or worse).
+
 
 
 # V. Challenges and Opportunities
