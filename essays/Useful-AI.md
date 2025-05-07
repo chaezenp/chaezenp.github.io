@@ -81,18 +81,14 @@ From my experiences, AI *can* be a useful tool for learning and understanding if
 The instant solutions of AI have weakened my problem-solving and critical thinking abilities because I do not need them when using AI. I have become slower to solve problems, as continuously prompting an AI until I reach an answer is much easier than critically thinking. But the explanations that come with solutions are concise yet great for my comprehension. I am able to understand a lot more when topics are broken up into parts, such as a proof is when using subproblems to prove the overall solution. 
 
 # IV. Practical Applications
-<div class="row">
-  <div clas="column">
+<img width="30%" class="rounded float-start pe-4" src="../img/AI-essay/SophiaRobot.png">
+
 A very popular project that has made itʻs rounds around the world is Sophia the Robot, by Hanson Robotics. She is a robot powered by AI to create a more human connection between man and machine. Many say that she is a "social" robot that can mimic social behaviors and stimulate feelings in humans. Paired with the robotics of facial movement, Sophia can be very expressive to which some say is uncanny. Her AI can learn from what she can see and hear, and be able to hold "human-like" conversations. 
     
-<img width="30%" class="rounded pe-4" src="../img/AI-essay/SophiaRobot.png">
-  </div>
-<div class="column">
-<img width="30%" class="rounded pe-4" src="../img/AI-essay/AtlasRobot.png">
+<img width="30%" class="rounded float-start pe-4" src="../img/AI-essay/AtlasRobot.png">
   
 On the more practical side, Boston Dynamicʻs' Atlas robot is designed to mimic the movements of humans. Over the years, they have worked on Atlas' hydraulic model as the intial goal for Atlas was to used in search and rescue applications. It has been shown to walk, run, jump, picking up items, and do parkour. In 2024, with the rise of humanoid robots, they had developed an electric model of Atlas, which has better hardware for learning. According to Boston Dynamics, "Atlas is demonstrating reinforcement learning policies developed using a motion capture suit." This continues the innovation for the world to have more human-like robots (for better or worse).
-</div>
-</div>
+
 
 # V. Challenges and Opportunities
 Some challenges with AI in my software engineering course is when AI like ChatGPT generates a solution that is far off from what we had previously learned in the course. This, in turn, trained me to have better prompts that were more effective in achieving a satisfactory answer. Through this software engineering course, I have learned to not blindly trust AI as much as before and to verify any AI solutions I use to ensure they work properly. I do think that many Computer Science classes can benefit from the use of AI, but it must have clear guidelines on itʻs use so students are encouraged to use it as a tool to help them understand content instead of spitting out answers. For better or for worse, the world of technology is increasing itʻs use of AI, especially in software, therefore, it is apparent that more and more curricula can implement it in a positive but disciplined way.
