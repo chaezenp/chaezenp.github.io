@@ -73,6 +73,8 @@ The instant solutions of AI have weakened my problem-solving and critical thinki
 <img width="30%" class="rounded float-start pe-4" src="../img/AI-essay/SophiaRobot.png">
 
 A very popular project that has made itʻs rounds around the world is Sophia the Robot, by Hanson Robotics. She is a robot powered by AI to create a more human connection between man and machine. Many say that she is a "social" robot that can mimic social behaviors and stimulate feelings in humans. Paired with the robotics of facial movement, Sophia can be very expressive to which some say is uncanny. Her AI can learn from what she can see and hear, and be able to hold "human-like" conversations. 
+
+
     
 <img width="30%" class="rounded float-end pe-4" src="../img/AI-essay/AtlasRobot.png">
   
@@ -97,7 +99,7 @@ AI has the potential to help students learn and understand better than before. W
 The benefits of AI in education rely on both the students and teachers to find the right balance. With many students being overly dependent on AI, educators must define the limits of AI use, but also allow some freedom. Many students also need to be self-disciplined in their overuse of AI and must meet in the middle with teachers in order to use AI that is benefical to their learning.
 
 # VIII. Conclusion
-<img width="50%" class="rounded float-start pe-4" src="../img/AI-essay/AIHandShake.png">
+<img width="40%" class="rounded float-start pe-4" src="../img/AI-essay/AIHandShake.png">
 
 People went from "just Google it" to "Let me ask ChatGPT." The over-reliance on AI, especially in education, has become very detrimental to the immediate future workforce. Many people would not prefer a doctor who "ChatGPTʻd" their way through school to a doctor who passed by themselves. As my algorithms teacher always said, "Would you fly a plane with this code?" (in reference to proving why the code works), I would answer no, as the number of people who joke about ChatGPT deserving their degree more than them is frightening. 
 But AI does have the potential to help students learn by breaking down topics and creating personalized lessons. But to reach that potential, students need guidance, they need examples. Just like creating prompts for AI, students need clear and precise guidelines and limits for AI use in the classroom. 
