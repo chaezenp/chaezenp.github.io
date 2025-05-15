@@ -12,7 +12,7 @@ labels:
   - Functional Programming
 ---
 
-<img width="20%" class="rounded float-start pe-4" src="../img/reflectSE/CodingComputer.jpg">
+<img width="55%" class="rounded float-start pe-4" src="../img/reflectSE/CodingComputer.jpg">
 
 
 # Introduction
