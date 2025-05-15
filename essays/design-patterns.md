@@ -19,9 +19,13 @@ As the years go by, people will continue to arrive at problems that block their 
 
 # Patterns Are Useful
 Design Patterns come in three types: Creational, Structural, and Behavioral.
+
 Creational: Focuses on the process or challenges of object creation and how to instantiate objects flexibly and efficiently.
+
 Structural: Focuses on the organization and composition of classes and objects to create larger structures while ensuring flexibility and scalability.
+
 Behavioral: Focuses on the communication and interaction between objects, managing how they collaborate and share responsibilities.
+
 The best way to demonstrate how useful Design Patterns are is to use examples.
 
 When developing [Harmony Quest](https://chaezenp.github.io/projects/harmonyquest.html) and [The Night March](https://chaezenp.github.io/projects/night-march.html), I used at least one of each type of Design Pattern. 
