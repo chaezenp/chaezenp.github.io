@@ -4,7 +4,7 @@ type: project
 image: img/gameheads-projects/UE4_Proj1_Cover.png
 title: "Crystal Island"
 date: 2024-06
-published: true
+published: false
 labels:
   - Video Game Scene
   - 3D Modeling
