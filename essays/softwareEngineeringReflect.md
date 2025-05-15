@@ -20,13 +20,15 @@ Throughout my software engineering course, I have gained much more knowledge abo
 # Coding Standards
 When I first started this class, my code documentation was standard. I commented on the main aspects of the code, only going into detail about functions that were not intuitive. I just commented enough to get a good grade, with a previous class that required comments couldn't be more than 80 characters long (indentation included). Now that I have used ``ESLint``, a code analysis tool for JavaScript, and its extension ``Prettier ESLint`` (more formatting) as the coding standard in my software engineering course, I see how much it has made my code visually appealing and error-free. ESLint is also a great tool for learning JavaScript and TypeScript syntax, as it catches all types of errors. And with ``Prettier`` in your integrated development environment (IDE), you can have it automatically format your code as you write to save the hassle at the end. 
 
-Code standards good for collaborative work
+Using this coding standard has shown me how important having a structure is. Not only does it result in having clean code, but it also results in having code that is easier to debug, maintain, and update, especially by others. Having this structure leads to others understanding it better. The formatting, naming conventions, and consistent logic can be shared throughout a project, leading to an efficient workflow among teams in which reduces the misunderstandings and errors that could have happened previously. It's also good practice for future developers who need to update or modify the program. 
 
-
-# Functional Programming
+This reinforces the habit of noticing inconsistencies while writing code, and it forces you into a discipline that will help you be more focused, consistent, and organized. 
 
 
 # Design Patterns
+
+
+# Functional Programming
 
 
 # Conclusion
