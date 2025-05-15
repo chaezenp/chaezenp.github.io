@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/tbh.png
 title: "Manoa Connect"
-date: 2024-06
+date: 2025-04
 published: true
 labels:
   - Agile Programming
