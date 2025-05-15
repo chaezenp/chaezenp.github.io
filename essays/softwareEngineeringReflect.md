@@ -18,24 +18,8 @@ labels:
 Throughout my software engineering course, I have gained much more knowledge about programming concepts, methods, and other tools to help development. While most assignments focused on web development, the core of this class was to *think* like a software engineer, to use what we have learned on future projects beyond web applications and front-end development. I have gained a greater appreciation for the **standards I hold for myself in my work, the patterns I can utilize to develop more efficiently, and functional programming to expedite my development.**
 
 # Coding Standards
-When I first started this class, my code documentation was standard. I commented on the main aspects of the code, only going into detail about functions that were not intuitive.
-<div>
-  
-  ```
-  Hello
-  s
-  f
-  fs
-  ffs
-  ```
+When I first started this class, my code documentation was standard. I commented on the main aspects of the code, only going into detail about functions that were not intuitive. I just commented enough to get a good grade, with a previous class that required comments couldn't be more than 80 characters long (indentation included). But now that I have used ``ESLint`` as a "standard" for programming, I see how much 
 
-  ```
-  bruzzz
-  sfd
-  s
-  f
-  ```
-</div>
 
 # Functional Programming
 
