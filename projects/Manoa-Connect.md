@@ -4,7 +4,7 @@ type: project
 image: img/tbh.png
 title: "Manoa Connect"
 date: 2024-06
-published: false
+published: true
 labels:
   - Agile Programming
   - Databases
