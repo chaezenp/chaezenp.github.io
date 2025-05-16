@@ -26,13 +26,19 @@ Having a defined structure for a collaborative setting is a must to keep everyth
 
 
 # Blueprints: Design Patterns
-As coding standards are used to reduce headaches in the format and readability of the code, design patterns are used to reduce headaches of defining and solving problems. Design patterns are general, well-tested solutions to common problems many face in software development. It's not the direct solution but it provides the blueprints to start building one and is not tied to any specific coding language or application.
+As coding standards are used to reduce headaches in the format and readability of the code, design patterns are used to reduce headaches in defining and solving problems. Design patterns are general, well-tested solutions to common problems many face in software development. It's not the direct solution, but it provides the blueprints to start building one and is not tied to any specific coding language or application.
 
-While building [Manoa Connect](https://chaezenp.github.io/projects/Manoa-Connect.html), we utlized **Builder Pattern** for account creation and modification as the profiles all have unique information but still share the same components.   
+While building [Manoa Connect](https://chaezenp.github.io/projects/Manoa-Connect.html), we utilized the **Builder Pattern** for account creation and modification as the profiles all have unique information but still share the same components. Then I used **State Pattern** for determining whether another user should be presented on the connect page, in other words, if you have already matched or liked a profile, it won't show up in the connect page again. 
+<img width="50%" class="rounded float-end pe-4" src="../img/ManoaConnect/MC-ConnectPage.png">
 
-<img width="50%" class="rounded float-end pe-4" src="../img/reflectSE/CodingComputer.jpg">
+
+Just like using a coding standard, applying a design pattern provides structure and keeps everyone on the team on the same page. It sets up expectations of how the component of the project should behave. Using these patterns isn't just for web development, but can be used for a multitude of systems, like in game development (which I have), desktop applications, or robotics software. 
+
+I think the concept of design patterns is very powerful as it can be used in a wide variety of professions. It promotes a method of problem-solving that uses solutions that can be reused and repurposed to fit the challenge at hand. It guides decision making, can streamline efforts, and promotes modular thinking. Design patterns is a useful tool for creating flexible approaches to problems without having to reinvent the wheel. 
+
 
 # Action: Functional Programming
+<img width="50%" class="rounded float-start pe-4" src="../img/reflectSE/CodingComputer.jpg">
 
 
 # Conclusion
