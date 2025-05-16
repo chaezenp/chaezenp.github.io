@@ -4,7 +4,7 @@ type: essay
 title: "TypeScript: A New Language"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
