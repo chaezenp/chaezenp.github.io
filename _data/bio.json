@@ -20,7 +20,7 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Java", "C#", "Javascript", "Typescript" ]
+      "keywords": [ "Java", "C#", "JavaScript", "TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
