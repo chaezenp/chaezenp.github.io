@@ -18,13 +18,13 @@ summary: "A group project developing a web app that connects UH Manoa students o
   - [Manoa Connect App](https://manoa-connect-now.vercel.app/)
 
 # Purpose
-To facilitate student connection
+To facilitate student connection, Manoa Connect is a social networking 
 
 <img width="100%" src="../img/ManoaConnect/MC-Profile.png">
 
 # Contributions
 
-<div class="row">
+<div class="flex-row">
     <img width="50%" src="../img/ManoaConnect/MC-ConnectPageBack.png">
     <img width="50%" src="../img/ManoaConnect/MC-ConnectPageBack2.png">
 </div>
