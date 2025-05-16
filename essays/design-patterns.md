@@ -20,16 +20,15 @@ As the years go by, people will continue to arrive at problems that block their 
 # Patterns Are Useful
 Design Patterns come in three types: Creational, Structural, and Behavioral.
 
-Creational: Focuses on the process or challenges of object creation and how to instantiate objects flexibly and efficiently.
+- Creational: Focuses on the process or challenges of object creation and how to instantiate objects flexibly and efficiently.
 
-Structural: Focuses on the organization and composition of classes and objects to create larger structures while ensuring flexibility and scalability.
+- Structural: Focuses on the organization and composition of classes and objects to create larger structures while ensuring flexibility and scalability.
 
-Behavioral: Focuses on the communication and interaction between objects, managing how they collaborate and share responsibilities.
+- Behavioral: Focuses on the communication and interaction between objects, managing how they collaborate and share responsibilities.
 
 The best way to demonstrate how useful Design Patterns are is to use examples.
 
 When developing [Harmony Quest](https://chaezenp.github.io/projects/harmonyquest.html) and [The Night March](https://chaezenp.github.io/projects/night-march.html), I used at least one of each type of Design Pattern. 
-
 
 
 When creating levels with dynamic platforms, such as a moving platform, it would be very inefficient to recreate it in each level. As I developed these two games in **Unity**, I was able to make a ``prefab``, a reusable game object or asset that can be easily instantiated or modified across multiple levels, containing premade settings, components, and behaviors. In Harmony Quest, I used many ``prefabs`` for platforms and player types to be easily implemented into any level. This is an example of a **Prototype Design Pattern**, a Creational Design Pattern, in which you save an existing object, which would otherwise be time-consuming to re-create, and copy/clone it. 
