@@ -24,7 +24,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "WindowsOS", "Unity Engine" ]
+      "keywords": [ "MacOS", "Git/GitHub", "WindowsOS", "Unity Engine", "PostgreSQL", "Photoshop", "Slack" ]
     }
   ],
   "education": [
