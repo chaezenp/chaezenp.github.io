@@ -20,7 +20,7 @@
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Java", "C#" ]
+      "keywords": [ "Java", "C#", "Javascript", "Typescript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -45,11 +45,24 @@
       "website": "https://gameheadsoakland.org",
       "startDate": "2023-03-15",
       "endDate": "Present",
-      "summary": "Develop soft skills for game development and network with people in the industry",
+      "summary": "Develop soft skills for game development and network with people in the industry.",
       "highlights": [
-        "Learn Photoshop and 2D/3D animation",
-        "Make meaningful games during the summer",
-        "Connect with professionals from large and small companies"
+        "Learn Photoshop and 2D/3D animation.",
+        "Make meaningful games during the summer.",
+        "Connect with professionals from large and small companies."
+      ]
+    },
+    {
+      "company": "Liliuokalani Trust",
+      "position": "IT Intern",
+      "website": "https://onipaa.org/",
+      "startDate": "2025-04-10",
+      "endDate": "2025-05-30",
+      "summary": "Setting up hardware for deployment to employees",
+      "highlights": [
+        "Utilized Google Suite to maintain an organized workflow.",
+        "Participated in department-wide meetings in order to keep focus on deployment.",
+        "Communicated with multiple departments to ensure efficient deployment."
       ]
     }
   ],
