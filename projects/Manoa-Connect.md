@@ -27,7 +27,7 @@ Manoa Connect is designed, implemented, and maintained by Aaron Ramos, Codie Nak
 
 # Design 
 
-The core of the website includes a *profile*, *chat*, and *match* page. There is also a page for new users to create an account and pages to custimize your profile such as adding photos or your current class schedule. 
+The core of the website includes a profile, chat, and match page. There is also a page for new users to create an account and pages to customize your profile, such as adding photos or your current class schedule.
 
 <div class="flex-row">
   <img width="48%" src="../img/ManoaConnect/MC-SignUp2.png">
