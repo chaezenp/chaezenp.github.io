@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Intricacies of a webpage"
 date: 2025-02-27
-published: true
+published: false
 labels:
   - HTML
   - BootStrap
