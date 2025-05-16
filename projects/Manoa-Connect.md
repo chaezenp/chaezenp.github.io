@@ -22,5 +22,5 @@ summary: "A group project developing a web app that connects UH Manoa students o
 # Design 
 
 # Contributions
-
+Originally I was only going to use it for a list of all previous classes some had took but realized it could be reused for other types of lists like a users interests and likes (but the final version of the project reworked the UX/UI not requiring it). 
 # Skills
