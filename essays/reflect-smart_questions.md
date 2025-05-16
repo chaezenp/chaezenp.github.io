@@ -83,4 +83,4 @@ There are a few different answers but none have been accepted by the OP. Some co
 **No Effort**: OP did not show any effort to try and solve their problem before posting.
 
 # Conclusion: Be Smart, Ask Smart
-Asking smart questions is better for the one asking and anyone who is trying to answer. When you are clear and specific, and provide context about what you're trying to do, the person who answers can be as clear and precise while offering bonus tips and advice. That way both sides can save time and work more efficiently to solve problems and learn. "There are no *dumb* questions" but there is a *smarter* way to ask them. 
+Asking smart questions is better for the one asking and anyone who is trying to answer. When you are clear and specific, and provide context about what you’re trying to do, the person who answers can be as clear and precise while offering bonus tips and advice. That way, both sides can save time and work more efficiently to solve problems and learn. “There are no dumb questions,” but there is a smarter way to ask them.
