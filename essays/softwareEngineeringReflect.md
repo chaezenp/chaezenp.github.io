@@ -39,8 +39,6 @@ I think the concept of design patterns is very powerful as it can be used in a w
 
 # Action: Functional Programming
 
-<img width="50%" class="rounded float pe-4" src="../img/ManoaConnect/MC-ConnectPageBack.png">
-
 The core idea of functional Programming (FP) is writing pure functions with no side-effects, ensuring consistent and predictable behavior. When I first learned about this concept,it was confusing. But as the class went on, I developed my skills in Javascript/Typescript which worked in tandem with functional programming. It has become handy tool when implementing functions as I can design them to be versatile. It helped when developing [Manoa Connect](https://chaezenp.github.io/projects/Manoa-Connect.html) as it kept code consise and modular. 
 
 An example of functional programming from Manoa Connect is a function I made to create an expandable list based on a string that is divided by commas such as a users class list
