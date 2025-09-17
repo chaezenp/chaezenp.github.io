@@ -3,7 +3,7 @@
     "name": "Chaezen-Lee Pebria",
     "label": "Student",
     "picture": "https://github.com/chaezenp.png",
-    "email": "cpebria@hawaii.edu",
+    "email": "chaezenleepebria@gmail.com",
     "website": "https://chaezenp.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -14,17 +14,17 @@
   },
   "interests": [
     { "name": "Video Game Development" },
+    { "name": "Digital Storytelling" },
     { "name": "3D Animation" },
-    { "name": "Digital Storytelling" }
   ],
   "skills": [
     {
       "name": "Languages",
-      "keywords": [ "Java", "C#", "JavaScript", "TypeScript" ]
+      "keywords": [ "Java", "C#", "JavaScript", "TypeScript", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "WindowsOS", "Unity Engine", "PostgreSQL", "Photoshop", "Slack" ]
+      "keywords": [ "MacOS", "Git/GitHub", "WindowsOS", "Unity Engine", "Slack" ]
     }
   ],
   "education": [
